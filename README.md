@@ -18,9 +18,3 @@ Each planet has a **description and an image** in an organized layout.
 
 - HTML5
 - CSS3
-
----
-
-## 🌐 Live Demo
-
-👉 [**View Live Version**](https://yourusername.github.io/solar-system-planets)
